@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Carmen y Javier//Boda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boda-carmen-javier-20270403@carmenyjavier
+DTSTAMP:20261102T120000Z
+DTSTART:20270403T110000Z
+DTEND:20270403T210000Z
+SUMMARY:Boda Carmen y Javier
+LOCATION:Parroquia de Nuestra Señora de la Asunción\, Plaza Alta\, Aracen
+ a (Huelva)
+DESCRIPTION:Ceremonia 13:00 en la Parroquia de Nuestra Señora de la Asunci
+ ón de Aracena. Celebración en el Molino Fuentesanta.
+END:VEVENT
+END:VCALENDAR
